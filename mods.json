@@ -1,0 +1,485 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1868454866",
+        "title": "No Drop // by @Ony ",
+        "version": 1724911232
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "NoDrop"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1838445101",
+        "title": "DGSM  - Duplicants Generation Settings Manager // by @Ony ",
+        "version": 1732856058
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "DGSM2"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2558292946",
+        "title": "Hideable Heavy Watt",
+        "version": 1732776150
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Xengulai.HideableHeavyWatt"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2047308624",
+        "title": "No Manual Delivery",
+        "version": 1732029161
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Sanchozz.ONIMods.NoManualDelivery"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1983504552",
+        "title": "Thermal Tooltips",
+        "version": 1709270235
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.ThermalTooltips"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2860925029",
+        "title": "Polluted Water Sublimator",
+        "version": 1665022597
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PWATERSUB"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1867707267",
+        "title": "Fast Save",
+        "version": 1692165885
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.FastSave"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1717463209",
+        "title": "Bigger Camera Zoom Out",
+        "version": 1665435898
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.BiggerCameraZoomOut"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1855163252",
+        "title": "Falling Sand",
+        "version": 1645431099
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.FallingSand"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2614715953",
+        "title": "Nuclear Processing",
+        "version": 1686926296
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Ronivan.NuclearProcessing"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1970894610",
+        "title": "Mineral Processing - Metallurgy",
+        "version": 1732231787
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Ronivan.MineralProcessingMetallurgy"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2527442674",
+        "title": "Full Miner Yield",
+        "version": 1624655063
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "BertO.FullMinerYield"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1737859934",
+        "title": "GasOverlay",
+        "version": 1677944441
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1737859934.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1878592057",
+        "title": "CustomTemperatureOverlay",
+        "version": 1625137389
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1878592057.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1818138009",
+        "title": "Customize Buildings",
+        "version": 1734466488
+      },
+      "status": 3,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": "/home/t0pr0k/.local/share/Steam/steamapps/workshop/content/457140/1818138009/29932246845675132_legacy.bin",
+      "staticID": "CustomizeBuildings"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1893887916",
+        "title": "Research Queue",
+        "version": 1720682663
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.ResearchQueue"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2018291283",
+        "title": "Mod Updater",
+        "version": 1719616041
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.ModUpdateDate"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1881925531",
+        "title": "Queue For Sinks",
+        "version": 1732304793
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.QueueForSink"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2493100777",
+        "title": "Pip Plant Overlay",
+        "version": 1720682568
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.PipPlantOverlay"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2548787152",
+        "title": "Powerless Deodorizers",
+        "version": 1681052157
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PowerlessDeodorizers"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2366597538",
+        "title": "Piped Deodorizer",
+        "version": 1665438175
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PipedDeodorizer"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2600818338",
+        "title": "Material Selection Properties",
+        "version": 1639702236
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "MaterialSelectionProperties"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1729816134",
+        "title": "Refined Metals Usable As Raw Metals",
+        "version": 1665439910
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.RefinedMetalsUsableAsRawMetals"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1832319118",
+        "title": "Suppress Notifications",
+        "version": 1732594723
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Aze.SuppressNotifications"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2359640901",
+        "title": "Rename Asteroids",
+        "version": 1646254127
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "asquared31415.RenameAsteroids"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1960947963",
+        "title": "Better Info Cards",
+        "version": 1710555659
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Aze.BetterInfoCards"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2576243780",
+        "title": "Vacuum Food Storage",
+        "version": 1629077816
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "testMod"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1960996649",
+        "title": "Show Building Ranges",
+        "version": 1721619637
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.ShowRange"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835394161",
+        "title": "Build Over Plants (Строительство по растениям)",
+        "version": 1709872253
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1835394161.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1863275516",
+        "title": "Smart Mop // by @Ony ",
+        "version": 1627541002
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "SmartMop"
+    }
+  ]
+}
