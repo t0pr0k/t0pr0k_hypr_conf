@@ -1,0 +1,43 @@
+{
+  "ConsoleEnabled": true,
+  "ShowConfig": true,
+  "MaxMopKg": 500,
+  "Localization": {
+    "MOP_AMOUNT": {
+      "NAME": "Maximum amount of liquid allowed to be mopped",
+      "DESCRIPTION": "Maximum Kg of liquid in tile possible to be mopped"
+    },
+    "KG": {
+      "NAME": "Kg",
+      "DESCRIPTION": ""
+    },
+    "CONFIG": {
+      "NAME": "Config",
+      "DESCRIPTION": ""
+    },
+    "MOD_SETTINGS": {
+      "NAME": "Mod Settings",
+      "DESCRIPTION": ""
+    },
+    "SAVE": {
+      "NAME": "Save",
+      "DESCRIPTION": ""
+    },
+    "NUMERIC_UP_DOWN": {
+      "NAME": "",
+      "DESCRIPTION": "Hold Shift to alter value for 10 at once\nHold Shift+Ctrl to alter value for 100 at once"
+    },
+    "CHANGE_HOTKEY": {
+      "NAME": "Press HotKey combination to change\n{0}",
+      "DESCRIPTION": ""
+    },
+    "UNBIND": {
+      "NAME": "To Unbind: Press \"Delete\" while on changing HotKey screen",
+      "DESCRIPTION": ""
+    },
+    "UNBIND_ALL": {
+      "NAME": "Unbind All",
+      "DESCRIPTION": ""
+    }
+  }
+}
