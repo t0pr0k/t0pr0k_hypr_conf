@@ -3,6 +3,68 @@
   "mods": [
     {
       "label": {
+        "distribution_platform": 0,
+        "id": "FastTrack",
+        "title": "Fast Track",
+        "version": 1669924115
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.FastTrack"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1751123054",
+        "title": "Floatation",
+        "version": 1654249553
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "HeinFloatation"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1818138009",
+        "title": "Customize Buildings",
+        "version": 1742399521
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "CustomizeBuildings"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1863275516",
+        "title": "Smart Mop // by @Ony ",
+        "version": 1627541002
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "SmartMop"
+    },
+    {
+      "label": {
         "distribution_platform": 1,
         "id": "1868454866",
         "title": "No Drop // by @Ony ",
@@ -22,7 +84,7 @@
         "distribution_platform": 1,
         "id": "1838445101",
         "title": "DGSM  - Duplicants Generation Settings Manager // by @Ony ",
-        "version": 1732856058
+        "version": 1742548148
       },
       "status": 1,
       "enabled": false,
@@ -54,7 +116,7 @@
         "distribution_platform": 1,
         "id": "2047308624",
         "title": "No Manual Delivery",
-        "version": 1732029161
+        "version": 1742029438
       },
       "status": 1,
       "enabled": false,
@@ -70,7 +132,7 @@
         "distribution_platform": 1,
         "id": "1983504552",
         "title": "Thermal Tooltips",
-        "version": 1709270235
+        "version": 1743403377
       },
       "status": 1,
       "enabled": false,
@@ -84,25 +146,9 @@
     {
       "label": {
         "distribution_platform": 1,
-        "id": "2860925029",
-        "title": "Polluted Water Sublimator",
-        "version": 1665022597
-      },
-      "status": 1,
-      "enabled": false,
-      "enabledForDlc": [
-        "EXPANSION1_ID"
-      ],
-      "crash_count": 0,
-      "reinstall_path": null,
-      "staticID": "PWATERSUB"
-    },
-    {
-      "label": {
-        "distribution_platform": 1,
         "id": "1867707267",
         "title": "Fast Save",
-        "version": 1692165885
+        "version": 1743926002
       },
       "status": 1,
       "enabled": false,
@@ -164,6 +210,22 @@
     {
       "label": {
         "distribution_platform": 1,
+        "id": "2860925029",
+        "title": "Polluted Water Sublimator",
+        "version": 1665022597
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PWATERSUB"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
         "id": "1970894610",
         "title": "Mineral Processing - Metallurgy",
         "version": 1732231787
@@ -214,7 +276,7 @@
         "distribution_platform": 1,
         "id": "1878592057",
         "title": "CustomTemperatureOverlay",
-        "version": 1625137389
+        "version": 1738257784
       },
       "status": 1,
       "enabled": false,
@@ -224,22 +286,6 @@
       "crash_count": 0,
       "reinstall_path": null,
       "staticID": "1878592057.Steam"
-    },
-    {
-      "label": {
-        "distribution_platform": 1,
-        "id": "1818138009",
-        "title": "Customize Buildings",
-        "version": 1734466488
-      },
-      "status": 3,
-      "enabled": false,
-      "enabledForDlc": [
-        "EXPANSION1_ID"
-      ],
-      "crash_count": 0,
-      "reinstall_path": "/home/t0pr0k/.local/share/Steam/steamapps/workshop/content/457140/1818138009/29932246845675132_legacy.bin",
-      "staticID": "CustomizeBuildings"
     },
     {
       "label": {
@@ -326,7 +372,7 @@
         "distribution_platform": 1,
         "id": "2366597538",
         "title": "Piped Deodorizer",
-        "version": 1665438175
+        "version": 1736993522
       },
       "status": 1,
       "enabled": false,
@@ -468,9 +514,9 @@
     {
       "label": {
         "distribution_platform": 1,
-        "id": "1863275516",
-        "title": "Smart Mop // by @Ony ",
-        "version": 1627541002
+        "id": "3405082060",
+        "title": "Help! My GPU screams at the main menu! (FPS Limiter)",
+        "version": 1736585723
       },
       "status": 1,
       "enabled": false,
@@ -479,7 +525,55 @@
       ],
       "crash_count": 0,
       "reinstall_path": null,
-      "staticID": "SmartMop"
+      "staticID": "FPSLimiter"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3387220833",
+        "title": "EasyWheezy",
+        "version": 1734616180
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "agravicvoid_easywheezy"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2553002229",
+        "title": "Density fixed",
+        "version": 1626837728
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "sant1ago.density"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2126548651",
+        "title": "Stirling Engine",
+        "version": 1736992220
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "StirlingEngine"
     }
   ]
 }
