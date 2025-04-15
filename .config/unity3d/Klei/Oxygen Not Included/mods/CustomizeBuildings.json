@@ -3,7 +3,7 @@
   "BatterySmartKJ": 50000.0,
   "BatterySmartNoRunOff": true,
   "BatteryLargeKJ": 50000.0,
-  "SolarMaxPower": 500.0,
+  "SolarMaxPower": 5000.0,
   "SolarEnergyMultiplier": 2.0,
   "RadBattery": 1000.0,
   "SpaceBattery": 100000.0,
