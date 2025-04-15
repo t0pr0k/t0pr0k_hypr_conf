@@ -1,0 +1,8 @@
+{
+  "ConsoleEnabled": true,
+  "ShowConfig": true,
+  "MarkToSweep": false,
+  "Debug": false,
+  "UseLastPriority": false,
+  "SweepPriority": 4
+}
