@@ -13,13 +13,13 @@
       "custom/updates",
       "keyboard-state",
       "clock",
-      //"bluetooth",
       "network",
       "privacy",
       "hyprland/submap"
     ],
     "modules-center": ["hyprland/window"],
     "modules-right": [
+      "keyboard-state",
       "mpris",
       "mpd",
       "battery",
@@ -27,10 +27,7 @@
       "wireplumber",
       "temperature",
       "hyprland/language",
-      "cpu",
-      "memory",
       "idle_inhibitor",
-      "systemd-failed-units",
       "group/power"
     ],
 
@@ -70,52 +67,7 @@
       "on-click": "shutdown now"
     },
 
-    "custom/cpu": {
-    "interval": 1,
-    "format": "󰍛 {usage}%",
-    //"on-click": "",
-    "tooltip": false
-    },
-
-    /*"group/cpu-load": {
-      "orientation": "inherit",
-      "drawer": {
-        "transition-duration": 500,
-        "children-class": "drawer-child",
-        "transition-left-to-right": false
-      },
-      "modules": ["cpu", "load"]
-    },
-    "cpu": {
-      "interval": 1,
-      "format": "cpu {usage}%",
-      "on-click": "",
-      "tooltip": false
-    },
-    "load": {
-      "interval": 10,
-      "format": "load: {load1} {load5} {load15}"
-    },*/
     // Modules configuration
-    "memory": {
-      "interval": 30,
-      "format": "ram {used} g / {total} g",
-      "tooltip": false
-      //"format": " {}%",
-      //"format-alt": " {used}G",
-      //"tooltip": true,
-      //"tooltip-format": "{used:0.1f}G/{total:0.1f}G"
-    },
-    "bluetooth": {
-      "format": " {status}",
-      "format-connected": " {device_alias}",
-      "format-connected-battery": " {device_alias} {device_battery_percentage}%",
-      // "format-device-preference": [ "device1", "device2" ], // preference list deciding the displayed device
-      "tooltip-format": "{controller_alias}\t{controller_address}\n\n{num_connections} connected",
-      "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
-      "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
-      "tooltip-format-enumerate-connected-battery": "{device_alias}\t{device_address}\t{device_battery_percentage}%"
-    },
     "temperature": {
       // "thermal-zone": 2,
       // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
@@ -258,8 +210,6 @@
     "wireplumber": {
       "format": "{icon} {volume}%",
       "format-muted": " Muted",
-      "format-bluetooth": "󰂰 󰥰 {volume}{format_source}",
-      "format-bluetooth-muted": "󰂲 Mute",
       "format-source": "󰍬{volume}",
       "format-source-muted": "󰍭 ",
       // "format-icons": ["", " ", " "],
@@ -335,12 +285,6 @@
         "deactivated": " "
       }
     },
-    "systemd-failed-units": {
-      "format": "✗ {nr_failed}",
-      "format-ok": "✓",
-      "system": true, // Monitor failed systemwide units.
-      "user": false // Ignore failed user units.
-    },
 
     // Custom
     "custom/updates": {
@@ -380,9 +324,7 @@
       "window-rewrite-default": "",
       "window-rewrite": {
         "title<.*youtube.*>": " ",
-        "title<.*whatsapp.*>": "",
         "title<.*messenger.*>": "",
-        "title<.*facebook.*>": "",
         "class<firefox-developer-edition>": "🦊",
         "class<firefox>": "",
         "title<.*github.*>": "",
@@ -394,8 +336,6 @@
         "title<.*vim.*>": " ",
         "title<.*cmus.*>": " ",
         "class<spotify>": " ",
-        "class<chrome>": "",
-        "class<brave>": "🦁",
         "class<discord>": " ",
         "class<slack>": " ",
         "class<vlc>": "󰕼",
@@ -405,8 +345,8 @@
         // "class<gimp>": " 🎨",
         "class<gimp>": "",
         "class<thunderbird>": "",
-        "title<.*gmail.*>": "󰊫",
-        "class<telegram-desktop>": "",
+        "title<*gmail.*>": "󰊫",
+        "class<Telegram>": "",
         "class<remmina>": "🖥️",
         "class<virt-manager>": "",
         "class<obs>": "📹",
