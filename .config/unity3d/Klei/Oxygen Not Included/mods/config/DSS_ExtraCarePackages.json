@@ -1,0 +1,348 @@
+[
+  {
+    "ItemId": "EvilFlowerSeed",
+    "Name": "<link=\"EVILFLOWER\">Семя споровика</link>",
+    "RequiredDlcs": null,
+    "Amount": 1,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 95
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "EvilFlowerSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "BulbPlantSeed",
+    "Name": "<link=\"BULBPLANT\">Семя дружка</link>",
+    "RequiredDlcs": null,
+    "Amount": 1,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 36
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "BulbPlantSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "BeanPlantSeed",
+    "Name": "<link=\"BEANPLANT\">Закусочный боб</link>.",
+    "RequiredDlcs": null,
+    "Amount": 3,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "BeanPlantSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "ColdWheatSeed",
+    "Name": "<link=\"COLDWHEAT\">Зерно морозной пшеницы</link>",
+    "RequiredDlcs": null,
+    "Amount": 3,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "ColdWheatSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "SeaLettuceSeed",
+    "Name": "<link=\"SEALETTUCE\">Семя водяного сорняка</link>",
+    "RequiredDlcs": null,
+    "Amount": 3,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "SeaLettuceSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "GasGrassSeed",
+    "Name": "<link=\"GASGRASS\">Семечко газовой травы</link>",
+    "RequiredDlcs": null,
+    "Amount": 3,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 96
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "GasGrassSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "Granite",
+    "Name": "<link=\"GRANITE\">Гранит</link>",
+    "RequiredDlcs": null,
+    "Amount": 1000,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 24
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "Granite"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "Obsidian",
+    "Name": "<link=\"OBSIDIAN\">Обсидиан</link>",
+    "RequiredDlcs": null,
+    "Amount": 1000,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 24
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "Obsidian"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "Katairite",
+    "Name": "<link=\"KATAIRITE\">Безднолит</link>",
+    "RequiredDlcs": null,
+    "Amount": 1000,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "Katairite"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "IronOre",
+    "Name": "<link=\"IRONORE\">Железная руда</link>",
+    "RequiredDlcs": null,
+    "Amount": 2000,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 12
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "IronOre"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "Wolframite",
+    "Name": "<link=\"WOLFRAMITE\">Вольфрамит</link>",
+    "RequiredDlcs": null,
+    "Amount": 1000,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "Wolframite"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "Tungsten",
+    "Name": "<link=\"TUNGSTEN\">Вольфрам</link>",
+    "RequiredDlcs": null,
+    "Amount": 200,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "Tungsten"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "UraniumOre",
+    "Name": "<link=\"URANIUMORE\">Урановая руда</link>",
+    "RequiredDlcs": [
+      "EXPANSION1_ID"
+    ],
+    "Amount": 100,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "UraniumOre"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "SwampHarvestPlantSeed",
+    "Name": "<link=\"SWAMPHARVESTPLANT\">Семя болотника</link>",
+    "RequiredDlcs": [
+      "EXPANSION1_ID"
+    ],
+    "Amount": 3,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 24
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "SwampHarvestPlantSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "ToePlantSeed",
+    "Name": "<link=\"TOEPLANT\">Семя легкопальцев</link>",
+    "RequiredDlcs": [
+      "EXPANSION1_ID"
+    ],
+    "Amount": 3,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "ToePlantSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "CritterTrapPlantSeed",
+    "Name": "<link=\"CRITTERTRAPPLANT\">Семя сатурновой существоловки</link>",
+    "RequiredDlcs": [
+      "EXPANSION1_ID"
+    ],
+    "Amount": 1,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 96
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "CritterTrapPlantSeed"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "BeeBaby",
+    "Name": "<link=\"BEE\">Мелкобета</link>",
+    "RequiredDlcs": [
+      "EXPANSION1_ID"
+    ],
+    "Amount": 1,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 24
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "BeeBaby"
+        }
+      ],
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 24
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "UraniumOre"
+        }
+      ]
+    ]
+  },
+  {
+    "ItemId": "PinkRockCarved",
+    "Name": "Резной люменокварц",
+    "RequiredDlcs": [
+      "DLC2_ID"
+    ],
+    "Amount": 1,
+    "UnlockConditions": [
+      [
+        {
+          "$type": "UnlockConditions.CycleUnlockCondition, SetStartDupes",
+          "CycleUnlock": 48
+        },
+        {
+          "$type": "UnlockConditions.ItemDiscoveredCondition, SetStartDupes",
+          "PrefabId": "PinkRockCarved"
+        }
+      ]
+    ]
+  }
+]

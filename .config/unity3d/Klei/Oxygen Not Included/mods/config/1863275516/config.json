@@ -1,7 +1,7 @@
 {
   "ConsoleEnabled": true,
   "ShowConfig": true,
-  "MaxMopKg": 500,
+  "MaxMopKg": 1000,
   "Localization": {
     "MOP_AMOUNT": {
       "NAME": "Maximum amount of liquid allowed to be mopped",

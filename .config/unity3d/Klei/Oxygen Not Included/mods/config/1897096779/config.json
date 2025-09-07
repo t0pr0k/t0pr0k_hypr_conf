@@ -1,0 +1,9 @@
+{
+  "ConsoleEnabled": false,
+  "ShowConfig": true,
+  "AutoLoadPreset": true,
+  "DisableResearchCompleteNotification": false,
+  "ResearchQueue": [],
+  "MinZoom": 0.4,
+  "MaxZoom": 1.0
+}

@@ -1,0 +1,620 @@
+{
+  "ReferencedColonySaveName": "all",
+  "ModlistPath": "all",
+  "IsModPack": true,
+  "Type": 0,
+  "PlibModConfigSettings": {
+    "all": {
+      "2985540238.Steam": {
+        "CustomFileName": "config.json",
+        "SharedLocation": false,
+        "Intented": false,
+        "ModConfigData": {
+          "YieldValue": 100
+        }
+      },
+      "PeterHan.FastSave": {
+        "CustomFileName": "config.json",
+        "SharedLocation": false,
+        "Intented": false,
+        "ModConfigData": {
+          "BackgroundSave": true,
+          "Mode": 0,
+          "DelegateSave": false
+        }
+      },
+      "Aze.BetterInfoCards": {
+        "CustomFileName": "config.json",
+        "SharedLocation": false,
+        "Intented": false,
+        "ModConfigData": {
+          "InfoCardOpacity": 90,
+          "HideElementCategories": false,
+          "UseBaseSelection": false,
+          "ForceFirstSelectionToHover": true,
+          "TemperatureBandWidth": 10.0,
+          "InfoCardSize": {
+            "ShouldOverride": true,
+            "FontSizeChange": 0,
+            "LineSpacing": 3,
+            "IconSizeChange": 0,
+            "YPadding": 5
+          }
+        }
+      },
+      "Ronivan.HighPressureApplications": {
+        "CustomFileName": "config.json",
+        "SharedLocation": false,
+        "Intented": false,
+        "ModConfigData": {
+          "HPGas": 10,
+          "HPLiquid": 40
+        }
+      },
+      "StirlingEngine": {
+        "CustomFileName": "config.json",
+        "SharedLocation": false,
+        "Intented": false,
+        "ModConfigData": {
+          "MinimumTemperatureDifference": 5.0,
+          "MaxWattOutput": 500.0,
+          "WasteHeatRatio": 0.05,
+          "DTUPerWatt": 500.0
+        }
+      },
+      "FPSLimiter": {
+        "CustomFileName": "config.json",
+        "SharedLocation": false,
+        "Intented": false,
+        "ModConfigData": {
+          "FPSLimit": 30
+        }
+      },
+      "PeterHan.FastTrack": {
+        "CustomFileName": "config.json",
+        "SharedLocation": true,
+        "Intented": false,
+        "ModConfigData": {
+          "ConfigVersion": 2,
+          "BackgroundRoomRebuild": true,
+          "ENetOpts": true,
+          "FlattenAverages": true,
+          "LogicUpdates": true,
+          "NoReports": false,
+          "FastStructureTemperature": true,
+          "RadiationOpts": true,
+          "ConduitOpts": true,
+          "ThreatOvercrowding": true,
+          "CritterConsumers": true,
+          "UnstackLights": true,
+          "ReduceCritterIdleMove": false,
+          "FastAttributesMode": true,
+          "AsyncPathProbe": true,
+          "CachePaths": true,
+          "ChorePriorityMode": 0,
+          "NoConversations": false,
+          "NoDisease": true,
+          "FastReachability": true,
+          "SensorOpts": true,
+          "ReduceDuplicantIdleMove": false,
+          "ReduceColonyTracking": true,
+          "DisableAchievements": 0,
+          "DisableLoadPreviews": true,
+          "DisableTutorial": 0,
+          "LoadOpts": true,
+          "ModLoadOpts": false,
+          "OptimizeDialogs": true,
+          "MiscOpts": true,
+          "AllocOpts": true,
+          "ParallelInventory": true,
+          "InfoCardOpts": true,
+          "FastUpdatePickups": true,
+          "PickupOpts": true,
+          "SideScreenOpts": true,
+          "MinimalKCV": false,
+          "ReduceSoundUpdates": true,
+          "DisableSound": false,
+          "VersionInWatermark": 0,
+          "ClusterMapReduce": true,
+          "CullConduits": true,
+          "AnimOpts": true,
+          "NoPlacerEasing": false,
+          "NoBounce": true,
+          "NoSplash": true,
+          "NoTileDecor": false,
+          "RenderTicks": true,
+          "DisableConduitAnimation": 0,
+          "CustomStringFormat": true,
+          "ReduceTileUpdates": true,
+          "MeshRendererOptions": 0,
+          "VirtualScroll": true,
+          "Metrics": false
+        }
+      }
+    }
+  },
+  "SavePoints": {
+    "all": [
+      {
+        "distribution_platform": 1,
+        "id": "2018291283",
+        "title": "Mod Updater",
+        "version": 1719616041
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3281716506",
+        "title": "Mod Preset Manager Light [MPML]",
+        "version": 1744584581
+      },
+      {
+        "distribution_platform": 0,
+        "id": "FastTrack",
+        "title": "Fast Track",
+        "version": 1669924115
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1818138009",
+        "title": "Customize Buildings",
+        "version": 1745136574
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1863275516",
+        "title": "Smart Mop // by @Ony ",
+        "version": 1627541002
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1868454866",
+        "title": "No Drop // by @Ony ",
+        "version": 1724911232
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1838445101",
+        "title": "DGSM  - Duplicants Generation Settings Manager // by @Ony ",
+        "version": 1742548148
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2558292946",
+        "title": "Hideable Heavy Watt",
+        "version": 1732776150
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2047308624",
+        "title": "No Manual Delivery",
+        "version": 1742029438
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1983504552",
+        "title": "Thermal Tooltips",
+        "version": 1743403377
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1867707267",
+        "title": "Fast Save",
+        "version": 1743926002
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1717463209",
+        "title": "Bigger Camera Zoom Out",
+        "version": 1665435898
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1855163252",
+        "title": "Falling Sand",
+        "version": 1645431099
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2614715953",
+        "title": "Nuclear Processing",
+        "version": 1686926296
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2860925029",
+        "title": "Polluted Water Sublimator",
+        "version": 1665022597
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1970894610",
+        "title": "Mineral Processing - Metallurgy",
+        "version": 1732231787
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2527442674",
+        "title": "Full Miner Yield",
+        "version": 1624655063
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1737859934",
+        "title": "GasOverlay",
+        "version": 1677944441
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1878592057",
+        "title": "CustomTemperatureOverlay",
+        "version": 1738257784
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1893887916",
+        "title": "Research Queue",
+        "version": 1748746859
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1881925531",
+        "title": "Queue For Sinks",
+        "version": 1732304793
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2493100777",
+        "title": "Pip Plant Overlay",
+        "version": 1720682568
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2548787152",
+        "title": "Powerless Deodorizers",
+        "version": 1681052157
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2366597538",
+        "title": "Piped Deodorizer",
+        "version": 1736993522
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2600818338",
+        "title": "Material Selection Properties",
+        "version": 1639702236
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1729816134",
+        "title": "Refined Metals Usable As Raw Metals",
+        "version": 1665439910
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1832319118",
+        "title": "Suppress Notifications",
+        "version": 1732594723
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2359640901",
+        "title": "Rename Asteroids",
+        "version": 1646254127
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1960947963",
+        "title": "Better Info Cards",
+        "version": 1710555659
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2576243780",
+        "title": "Vacuum Food Storage",
+        "version": 1629077816
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1960996649",
+        "title": "Show Building Ranges",
+        "version": 1721619637
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1835394161",
+        "title": "Build Over Plants (Строительство по растениям)",
+        "version": 1748777964
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3405082060",
+        "title": "Help! My GPU screams at the main menu! (FPS Limiter)",
+        "version": 1736585723
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3387220833",
+        "title": "EasyWheezy",
+        "version": 1734616180
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2553002229",
+        "title": "Density fixed",
+        "version": 1626837728
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2126548651",
+        "title": "Stirling Engine",
+        "version": 1736992220
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1887869179",
+        "title": "Sufficient Oxygen Generation",
+        "version": 1624844411
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2972215569",
+        "title": "Deodorizers Drop Canisters",
+        "version": 1684329686
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1725950119",
+        "title": "No Long Commutes",
+        "version": 1665439061
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2661907148",
+        "title": "Chemical Processing: Industrial Overhaul",
+        "version": 1736435548
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1822160024",
+        "title": "Wounded Go To Med Bed",
+        "version": 1665439215
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3392404591",
+        "title": "Supply to Closest",
+        "version": 1741420155
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3204497859",
+        "title": "Better Rebuilding",
+        "version": 1735344867
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2462402015",
+        "title": "Passive Gas Vent Input",
+        "version": 1644163163
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3358334623",
+        "title": "Mineral Processing - Mining",
+        "version": 1732231816
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2721654252",
+        "title": "Demolish Neutronium",
+        "version": 1691611193
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2013164217",
+        "title": "System Clock",
+        "version": 1732539628
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2551341883",
+        "title": "Auto-Eject",
+        "version": 1709111234
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2555723006",
+        "title": "Rotate Buildings",
+        "version": 1740198980
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2888290233",
+        "title": "Dupes Machinery",
+        "version": 1732231408
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2947429297",
+        "title": "Cluster Generation Manager [CGM]",
+        "version": 1747854443
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2129768894",
+        "title": "Pause on ready to print",
+        "version": 1663679593
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2806200110",
+        "title": "High Pressure Applications",
+        "version": 1732231468
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3468585385",
+        "title": "Blueprints Expanded",
+        "version": 1746496947
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2985540238",
+        "title": "Adjustable Mining Yield",
+        "version": 1686083960
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3022469420",
+        "title": "High Precision Temperature",
+        "version": 1692439710
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2949194697",
+        "title": "Athletic Manual Generator",
+        "version": 1741419455
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2936854563",
+        "title": "Mineralizer Reborn",
+        "version": 1721593955
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2955304767",
+        "title": "Claim Notification",
+        "version": 1701089839
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2795878144",
+        "title": "Space Radiator",
+        "version": 1742612859
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2856555858",
+        "title": "Duplicant Stat Selector [DSS]",
+        "version": 1741708294
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2965547030",
+        "title": "Skills Master // by @Ony ",
+        "version": 1720844808
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2163720966",
+        "title": "Adjustable Coolers",
+        "version": 1712774017
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3455710156",
+        "title": "Visual Fixes and Tweaks",
+        "version": 1745434979
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1833427385",
+        "title": "WGSM - World Generation Settings Manager // by @Ony ",
+        "version": 1722041827
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2962220957",
+        "title": "Modify Difficulty Settings",
+        "version": 1734089842
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3477214095",
+        "title": "Auto Drop Gas Bottler and Liquid",
+        "version": 1747357508
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2961505956",
+        "title": "Meteor Drops",
+        "version": 1721586630
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3438001141",
+        "title": "Bionics Access Control",
+        "version": 1746190158
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2837919908",
+        "title": "Rocketry Expanded",
+        "version": 1741965853
+      },
+      {
+        "distribution_platform": 1,
+        "id": "1897096779",
+        "title": "Research Manager // by @Ony ",
+        "version": 1722500141
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3135906971",
+        "title": "Skill Queue",
+        "version": 1734034441
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3301490799",
+        "title": "Mass Move Tool",
+        "version": 1747683678
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3308563978",
+        "title": "Chemical Processing: Biochemistry",
+        "version": 1736435391
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2637907611",
+        "title": "No Useless Notifications",
+        "version": 1635279141
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3426316307",
+        "title": "Bionic_Overclock",
+        "version": 1741843547
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2208398090",
+        "title": "Traffic Overlay",
+        "version": 1732237154
+      },
+      {
+        "distribution_platform": 1,
+        "id": "2915844170",
+        "title": "Critter Shedding",
+        "version": 1740867709
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3427974009",
+        "title": "SettingsSyncGroups",
+        "version": 1739641933
+      },
+      {
+        "distribution_platform": 1,
+        "id": "3120193648",
+        "title": "Debug Buttons",
+        "version": 1736630251
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "DigTimeMultiplier": 5.0,
+  "DustEnabled": true,
+  "DustAmount": 0.01,
+  "DustMultiplier": 2.0,
+  "DebugLogging": false
+}
