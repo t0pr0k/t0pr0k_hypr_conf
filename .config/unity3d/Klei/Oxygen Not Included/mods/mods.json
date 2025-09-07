@@ -3,6 +3,38 @@
   "mods": [
     {
       "label": {
+        "distribution_platform": 1,
+        "id": "2018291283",
+        "title": "Mod Updater",
+        "version": 1719616041
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.ModUpdateDate"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3281716506",
+        "title": "Mod Preset Manager Light [MPML]",
+        "version": 1744584581
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "ModProfileManager_Addon"
+    },
+    {
+      "label": {
         "distribution_platform": 0,
         "id": "FastTrack",
         "title": "Fast Track",
@@ -20,23 +52,9 @@
     {
       "label": {
         "distribution_platform": 1,
-        "id": "1751123054",
-        "title": "Floatation",
-        "version": 1654249553
-      },
-      "status": 1,
-      "enabled": false,
-      "enabledForDlc": [],
-      "crash_count": 0,
-      "reinstall_path": null,
-      "staticID": "HeinFloatation"
-    },
-    {
-      "label": {
-        "distribution_platform": 1,
         "id": "1818138009",
         "title": "Customize Buildings",
-        "version": 1742399521
+        "version": 1749371051
       },
       "status": 1,
       "enabled": false,
@@ -78,22 +96,6 @@
       "crash_count": 0,
       "reinstall_path": null,
       "staticID": "NoDrop"
-    },
-    {
-      "label": {
-        "distribution_platform": 1,
-        "id": "1838445101",
-        "title": "DGSM  - Duplicants Generation Settings Manager // by @Ony ",
-        "version": 1742548148
-      },
-      "status": 1,
-      "enabled": false,
-      "enabledForDlc": [
-        "EXPANSION1_ID"
-      ],
-      "crash_count": 0,
-      "reinstall_path": null,
-      "staticID": "DGSM2"
     },
     {
       "label": {
@@ -292,7 +294,7 @@
         "distribution_platform": 1,
         "id": "1893887916",
         "title": "Research Queue",
-        "version": 1720682663
+        "version": 1748746859
       },
       "status": 1,
       "enabled": false,
@@ -302,22 +304,6 @@
       "crash_count": 0,
       "reinstall_path": null,
       "staticID": "PeterHan.ResearchQueue"
-    },
-    {
-      "label": {
-        "distribution_platform": 1,
-        "id": "2018291283",
-        "title": "Mod Updater",
-        "version": 1719616041
-      },
-      "status": 1,
-      "enabled": false,
-      "enabledForDlc": [
-        "EXPANSION1_ID"
-      ],
-      "crash_count": 0,
-      "reinstall_path": null,
-      "staticID": "PeterHan.ModUpdateDate"
     },
     {
       "label": {
@@ -498,22 +484,6 @@
     {
       "label": {
         "distribution_platform": 1,
-        "id": "1835394161",
-        "title": "Build Over Plants (Строительство по растениям)",
-        "version": 1709872253
-      },
-      "status": 1,
-      "enabled": false,
-      "enabledForDlc": [
-        "EXPANSION1_ID"
-      ],
-      "crash_count": 0,
-      "reinstall_path": null,
-      "staticID": "1835394161.Steam"
-    },
-    {
-      "label": {
-        "distribution_platform": 1,
         "id": "3405082060",
         "title": "Help! My GPU screams at the main menu! (FPS Limiter)",
         "version": 1736585723
@@ -574,6 +544,818 @@
       "crash_count": 0,
       "reinstall_path": null,
       "staticID": "StirlingEngine"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1887869179",
+        "title": "Sufficient Oxygen Generation",
+        "version": 1624844411
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Aze.SufficientOxygenGeneration"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2972215569",
+        "title": "Deodorizers Drop Canisters",
+        "version": 1684329686
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "artorp.deodorizercanister"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1725950119",
+        "title": "No Long Commutes",
+        "version": 1665439061
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.NoLongCommutes"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2661907148",
+        "title": "Chemical Processing: Industrial Overhaul",
+        "version": 1736435548
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Ronivan.ChemProcessing"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1822160024",
+        "title": "Wounded Go To Med Bed",
+        "version": 1665439215
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.WoundedGoToMedBed"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3392404591",
+        "title": "Supply to Closest",
+        "version": 1741420155
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Sanchozz.ONIMods.SupplyToClosest"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3204497859",
+        "title": "Better Rebuilding",
+        "version": 1735344867
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "RebuildPreserve"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2462402015",
+        "title": "Passive Gas Vent Input",
+        "version": 1644163163
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PassiveGasVentInput"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3358334623",
+        "title": "Mineral Processing - Mining",
+        "version": 1732231816
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Ronivan.MineralProcessingMining"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2721654252",
+        "title": "Demolish Neutronium",
+        "version": 1751281717
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "lv.modo.DemolishNeutronium"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2013164217",
+        "title": "System Clock",
+        "version": 1732539628
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "ST.clock"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2551341883",
+        "title": "Auto-Eject",
+        "version": 1709111234
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.AutoEject"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2555723006",
+        "title": "Rotate Buildings",
+        "version": 1740198980
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Xengulai.RotateBuildings"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2888290233",
+        "title": "Dupes Machinery",
+        "version": 1732231408
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Ronivan.DupesMachinery"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2947429297",
+        "title": "Cluster Generation Manager [CGM]",
+        "version": 1752007449
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "ClusterTraitGenerationManager"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2806200110",
+        "title": "High Pressure Applications",
+        "version": 1732231468
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Ronivan.HighPressureApplications"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3468585385",
+        "title": "Blueprints Expanded",
+        "version": 1751495298
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "BlueprintsV2"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2985540238",
+        "title": "Adjustable Mining Yield",
+        "version": 1686083960
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "2985540238.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3022469420",
+        "title": "High Precision Temperature",
+        "version": 1692439710
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "ahc.HighPrecisionTemperature"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2949194697",
+        "title": "Athletic Manual Generator",
+        "version": 1741419455
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Sanchozz.ONIMods.AthleticsGenerator"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2936854563",
+        "title": "Mineralizer Reborn",
+        "version": 1721593955
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "MineralizerReborn"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2955304767",
+        "title": "Claim Notification",
+        "version": 1701089839
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "ClaimNotification"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2795878144",
+        "title": "Space Radiator",
+        "version": 1742612859
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Radiator_Mod"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2856555858",
+        "title": "Duplicant Stat Selector [DSS]",
+        "version": 1751427558
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "SetStartDupes"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2965547030",
+        "title": "Skills Master // by @Ony ",
+        "version": 1720844808
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "SkillsMaster"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2163720966",
+        "title": "Adjustable Coolers",
+        "version": 1712774017
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "MattsMods.AdjustableCoolers"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3455710156",
+        "title": "Visual Fixes and Tweaks",
+        "version": 1745434979
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "VisualFixesNTweaks"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2962220957",
+        "title": "Modify Difficulty Settings",
+        "version": 1734089842
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "CustomGameSettingsModifier"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3477214095",
+        "title": "Auto Drop Gas Bottler and Liquid",
+        "version": 1747357508
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "testMod"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2961505956",
+        "title": "Meteor Drops",
+        "version": 1721586630
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "MeteorDrops"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3438001141",
+        "title": "Bionics Access Control",
+        "version": 1746190158
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "DupeModelAccessPermissions"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2837919908",
+        "title": "Rocketry Expanded",
+        "version": 1750361428
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Rocketry Expanded"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1897096779",
+        "title": "Research Manager // by @Ony ",
+        "version": 1722500141
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "ResearchManager"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3135906971",
+        "title": "Skill Queue",
+        "version": 1734034441
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "SkillingQueue"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3301490799",
+        "title": "Mass Move Tool",
+        "version": 1750592290
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "MassMoveTo"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3308563978",
+        "title": "Chemical Processing: Biochemistry",
+        "version": 1736435391
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Ronivan.ChemProcessingBiochemistry"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2637907611",
+        "title": "No Useless Notifications",
+        "version": 1635279141
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "noUselessNotifications"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3426316307",
+        "title": "Bionic_Overclock",
+        "version": 1751126802
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Bionic_Overclock"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2208398090",
+        "title": "Traffic Overlay",
+        "version": 1732237154
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "asquared31415.TrafficVisualizer"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2915844170",
+        "title": "Critter Shedding",
+        "version": 1740867709
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "CrittersShedFurOnBrush"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3427974009",
+        "title": "SettingsSyncGroups",
+        "version": 1739641933
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "SettingsSyncGroups"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3120193648",
+        "title": "Debug Buttons",
+        "version": 1736630251
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "DebugButton"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3231749807",
+        "title": "Fast Door / 快速门 ",
+        "version": 1714373815
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "me.neavo.FastDoor"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3022436400",
+        "title": "Truthful Thermal Conductivity",
+        "version": 1710044044
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "ahc.TruthfulThermalConductivity"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3422648901",
+        "title": "Map Overlay Updated(ish)",
+        "version": 1738922827
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "3422648901.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2713204755",
+        "title": "Space POI Additional Info",
+        "version": 1750735567
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Digzol.SpacePOIExtraInfo"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3479234230",
+        "title": "Where's Flydo",
+        "version": 1746895705
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Where's_Flydo"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2128885110",
+        "title": "AI Improvements",
+        "version": 1749524945
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.AIImprovements"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3438530909",
+        "title": "Booster Animation Begone!",
+        "version": 1741117674
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "hides the stupid floating booster animation. -Nigit"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2047364442",
+        "title": "Clean Drop",
+        "version": 1645430936
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 1,
+      "reinstall_path": null,
+      "staticID": "PeterHan.CleanDrop"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1833427385",
+        "title": "WGSM - World Generation Settings Manager // by @Ony ",
+        "version": 1751702620
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 3,
+      "reinstall_path": null,
+      "staticID": "WGSM"
     }
   ]
 }
